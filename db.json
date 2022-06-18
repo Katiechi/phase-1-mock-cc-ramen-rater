@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Pork Ramen",
+      "restaurant": "The Paris",
+      "image": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/c7ab19e8-630a-4f43-9edf-50389e9cfb93/e1c10c3e-d701-4795-8712-8590aaffe590.jpg",
+      "rating": "9",
+      "comment": "This is Naruto's favorite dish",
+      "id": 6
     }
   ]
 }
